@@ -1,15 +1,12 @@
 import React from "react";
 import SocialLink from "./components/SocialLink";
+import TamilLogo from "./assets/tamilLogo.png";
 
 export default function () {
   return (
     <div className="flex justify-center">
       <div className="flex flex-col justify-center content-center items-center p-4 w-72 rounded-md space-y-3 ">
-        <img
-          src="/src/assets/tamilLogo.png "
-          alt="My logo"
-          className="rounded-xl"
-        />
+        <img src={TamilLogo} alt="My logo" className="rounded-xl" />
         <div>
           {" "}
           <h1 className="uppercase font-bold">tamilvanan sambasivam</h1>
