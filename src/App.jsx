@@ -27,19 +27,19 @@ export default function () {
 
         <SocialLink
           className="text-white bg-gradient-to-r from-red-600 to-red-500 font-medium rounded-lg text-sm px-5 py-2.5 text-center  mb-2  w-64"
-          linkUrl="https://www.youtube.com/@philomath_tamil"
+          linkUrl="https://www.youtube.com/@tmlvnn"
           linkname="YouTube"
         />
 
         <SocialLink
           className="text-white bg-gradient-to-r from-cyan-500 to-blue-400  font-medium rounded-lg text-sm px-5 py-2.5 text-center  mb-2  w-64"
-          linkUrl="https://www.twitter.com/@philomath_tamil"
+          linkUrl="#"
           linkname="Twitter"
         />
 
         <SocialLink
           className="text-white bg-gradient-to-r from-orange-500 to-rose-400  font-medium rounded-lg text-sm px-5 py-2.5 text-center  mb-2  w-64"
-          linkUrl="https://www.instagram.com/@philomath_tamil"
+          linkUrl="#"
           linkname="Instagram"
         />
       </div>
